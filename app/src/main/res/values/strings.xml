@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">The Ultimate NBA Quiz</string>
+    <string name="startButton">START</string>
+    <string name="loginName">Name</string>
+    <string name="loginPassword">Password</string>
+    <string name="loginLogin">Login</string>
+    <string name="loginNewUser">New User?</string>
+    <string name="registerRegister">Register</string>
+    <string name="registerAlready">Already Signed In? Login</string>
+    <string name="Email">E-mail</string>
+</resources>

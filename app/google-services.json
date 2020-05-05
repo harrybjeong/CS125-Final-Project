@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "21296987421",
+    "firebase_url": "https://theultimatenbaquizlogin.firebaseio.com",
+    "project_id": "theultimatenbaquizlogin",
+    "storage_bucket": "theultimatenbaquizlogin.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:21296987421:android:dd77920764ab0febb5b5f4",
+        "android_client_info": {
+          "package_name": "com.example.theultimatenbaquiz"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "21296987421-afnueok136klsta2qbde5cd6r8hheapn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCPJpAzNQ9YzdbFkZ4j5TKrajbv7aMBCW4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "21296987421-afnueok136klsta2qbde5cd6r8hheapn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
